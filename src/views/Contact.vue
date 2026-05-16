@@ -28,13 +28,13 @@
             <div>
               <h3 class="text-lg font-medium text-gray-900 mb-2">反馈与建议</h3>
               <a
-                href="mailto:support@cloudtix.com"
+                href="mailto:receive_automatic@163.com"
                 class="inline-flex items-center text-blue-600 hover:text-blue-700 font-medium"
               >
                 <svg class="h-5 w-5 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                 </svg>
-                support@cloudtix.com
+                receive_automatic@163.com
               </a>
               <p class="text-gray-500 text-sm mt-2">
                 功能建议、使用问题、一般咨询
@@ -44,13 +44,13 @@
             <div class="border-t pt-4">
               <h3 class="text-lg font-medium text-gray-900 mb-2">技术支持</h3>
               <a
-                href="mailto:support@cloudtix.com"
+                href="mailto:receive_automatic@163.com"
                 class="inline-flex items-center text-blue-600 hover:text-blue-700 font-medium"
               >
                 <svg class="h-5 w-5 mr-2" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                   <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 8l7.89 5.26a2 2 0 002.22 0L21 8M5 19h14a2 2 0 002-2V7a2 2 0 00-2-2H5a2 2 0 00-2 2v10a2 2 0 002 2z" />
                 </svg>
-                support@cloudtix.com
+                receive_automatic@163.com
               </a>
               <p class="text-gray-500 text-sm mt-2">
                 应用问题、Bug 反馈、账户相关

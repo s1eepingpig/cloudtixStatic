@@ -182,7 +182,7 @@
             如果您对本隐私政策有任何疑问、建议或投诉，请通过以下方式联系我们：
           </p>
           <ul class="list-none text-gray-700 space-y-2">
-            <li><strong>邮箱：</strong> privacy@cloudtix.com</li>
+            <li><strong>邮箱：</strong> receive_automatic@163.com</li>
           </ul>
           <p class="text-gray-700 mt-4">
             我们将在收到您的请求后的合理时间内回复您。

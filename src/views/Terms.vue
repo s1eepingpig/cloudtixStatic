@@ -162,7 +162,7 @@
             如果您对本协议有任何疑问或意见，请通过以下方式联系我们：
           </p>
           <ul class="list-none text-gray-700 space-y-2">
-            <li><strong>邮箱：</strong> support@cloudtix.com</li>
+            <li><strong>邮箱：</strong> receive_automatic@163.com</li>
           </ul>
         </section>
       </div>

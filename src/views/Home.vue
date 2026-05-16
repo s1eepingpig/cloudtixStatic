@@ -311,5 +311,3 @@
 
 <script setup>
 </script>
-</content>
-</invoke>
